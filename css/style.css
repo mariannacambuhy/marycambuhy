@@ -203,7 +203,6 @@ h3{
 .card {
     display: grid;
     grid-template-columns: 1fr;
-    /* Uma coluna em dispositivos móveis */
     gap: 120px;
     padding: 50px;
     justify-content: center;
